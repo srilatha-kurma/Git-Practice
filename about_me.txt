@@ -1,0 +1,3 @@
+Name: Kurma Srilatha
+Learning: Git & GitHub
+Goal: Data Analyst
