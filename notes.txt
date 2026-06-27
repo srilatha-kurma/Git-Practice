@@ -1,2 +1,6 @@
 Hello! 
 This is Srilatha notes
+WelCome to Day6
+
+I am learning git restore today
+i think I am going fine 

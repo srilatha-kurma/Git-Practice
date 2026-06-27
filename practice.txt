@@ -1,2 +1,4 @@
 DAY  OF GIT
 LEARNING GIT LOG AND GIT DIFF
+I am learning git diff now
+Bye Bye Day 5!
